@@ -1,9 +1,9 @@
 # Setting Up SuperSet
 
 ## 1.Clone Superset's repository in your terminal with the following command:
-'''
-git clone --depth=1  https://github.com/apache/superset.git
-'''
+
+```git clone --depth=1  https://github.com/apache/superset.git```
+
 Once that command completes successfully, you should see a new superset folder in your current directory.
 
 ## 2. Launch Superset Through Docker Compose
