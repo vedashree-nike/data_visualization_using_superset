@@ -13,12 +13,12 @@ First let's assume you're familiar with docker compose mechanics.
 In most cases though, the simple up command should do just fine.
 Refer to docker compose docs for more information on the topic.
 
-### Option #1 - for an interactive development environment
+### Option 1 - for an interactive development environment
 The --build argument insures all the layers are up-to-date
 
 docker compose up --build
 
-### Option #2 - build a set of immutable images from the local branch
+### Option 2 - build a set of immutable images from the local branch
 
 docker compose -f docker-compose-non-dev.yml up
 
