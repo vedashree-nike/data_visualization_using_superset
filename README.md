@@ -15,9 +15,11 @@ Refer to docker compose docs for more information on the topic.
 
 Option #1 - for an interactive development environment
 The --build argument insures all the layers are up-to-date
-#docker compose up --build
+
+docker compose up --build
 Option #2 - build a set of immutable images from the local branch
-#docker compose -f docker-compose-non-dev.yml up
+
+docker compose -f docker-compose-non-dev.yml up
 
 # 3.Log in to Superset
 Your local Superset instance also includes a Postgres server to store your data and is already pre-loaded with some example datasets that ship with Superset.
