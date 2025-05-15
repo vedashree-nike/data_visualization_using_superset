@@ -29,7 +29,7 @@ Note that many browsers now default to https - if yours is one of them, please m
 
 Log in with the default username and password:
 
-username: admin
+ username: admin
 
 password: admin
 
@@ -40,7 +40,7 @@ Run docker-compose.yml file using command:
 
 docker compose up
 
-##### Setting up Apache Kafka Listeners
+### Setting up Apache Kafka Listeners
 
 
 
