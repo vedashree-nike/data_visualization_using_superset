@@ -30,6 +30,7 @@ Note that many browsers now default to https - if yours is one of them, please m
 Log in with the default username and password:
 
 username: admin
+
 password: admin
 
 # Setting up Apache Kafka and MySQL
