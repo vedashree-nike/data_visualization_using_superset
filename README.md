@@ -33,6 +33,12 @@ username: admin
 
 password: admin
 
+# Setting up Apache Kafka and MySQL
+
+Run docker-compose.yml file using command:
+
+docker compose up
+
 
 
 
