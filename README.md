@@ -1,6 +1,6 @@
 # Setting Up SuperSet
 
-## 1.Clone Superset's repository in your terminal with the following command:
+## 1. Clone Superset's repository in your terminal with the following command:
 
 ```git clone --depth=1  https://github.com/apache/superset.git```
 
@@ -22,15 +22,14 @@ The --build argument insures all the layers are up-to-date
 
 ```docker compose -f docker-compose-non-dev.yml up```
 
-## 3.Log in to Superset
+## 3. Log in to Superset
 Your local Superset instance also includes a Postgres server to store your data and is already pre-loaded with some example datasets that ship with Superset.
 You can access Superset now via your web browser by visiting http://localhost:8088.
 Note that many browsers now default to https - if yours is one of them, please make sure it uses http.
 
 Log in with the default username and password:
 
- username: admin
-
+username: admin
 password: admin
 
 # Setting up Apache Kafka and MySQL
