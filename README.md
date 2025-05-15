@@ -35,10 +35,12 @@ password: admin
 
 # Setting up Apache Kafka and MySQL
 
+Copy docker-compose.yml file.
 Run docker-compose.yml file using command:
 
 docker compose up
 
+##### Setting up Apache Kafka Listeners
 
 
 
