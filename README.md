@@ -1,6 +1,6 @@
 # Setting Up SuperSet
 
-# 1.Clone Superset's repo in your terminal with the following command:
+## 1.Clone Superset's repo in your terminal with the following command:
 
 git clone --depth=1  https://github.com/apache/superset.git
 
