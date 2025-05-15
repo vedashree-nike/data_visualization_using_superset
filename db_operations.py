@@ -5,8 +5,8 @@ from kafka import KafkaConsumer
 # MySQL connection
 conn = mysql.connector.connect(
     host='localhost',
-    user='root',
-    password='Lenovo&5678',
+    user='username',
+    password='Password',
     database='orders'
 )
 cursor = conn.cursor()
