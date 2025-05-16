@@ -41,6 +41,10 @@ Run docker-compose.yml file using command:
 ```docker compose up```
 
 ### Setting up Apache Kafka Listeners
+Run the data_producer.py and db_operations.py simultaneously to generate and ingest the dataset.
+
+```python3 data_producer.py```
+```python3 db_operations.py```
 
 
 
