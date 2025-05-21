@@ -46,5 +46,6 @@ Run the data_producer.py and db_operations.py simultaneously to generate and ing
 ```python3 data_producer.py```
 ```python3 db_operations.py```
 
+### Importing dashboard
 
 
