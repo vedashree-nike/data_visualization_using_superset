@@ -47,5 +47,5 @@ Run the data_producer.py and db_operations.py simultaneously to generate and ing
 ```python3 db_operations.py```
 
 ### Importing dashboard
-
-
+Download the ```order details representation dashboard.zip``` file.
+Import the file after setting up Superset.
