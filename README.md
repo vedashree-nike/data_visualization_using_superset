@@ -1,4 +1,8 @@
-# Setting Up SuperSet
+# Architecture Diagram
+
+![Image](https://github.com/user-attachments/assets/282926b7-c0ca-458b-80e3-64e991b40a70)
+
+## Setting Up SuperSet
 
 ## 1. Clone Superset's repository in your terminal with the following command:
 
@@ -41,11 +45,11 @@ Run docker-compose.yml file using command:
 ```docker compose up```
 
 ### Setting up Apache Kafka Listeners
-Run the data_producer.py and db_operations.py simultaneously to generate and ingest the dataset.
+Run the producer.py and consumer.py simultaneously to generate and ingest the dataset.
 
-```python3 data_producer.py```
-```python3 db_operations.py```
+```python3 producer.py```
+```python3 consumer.py```
 
 ### Importing dashboard
-Download the ```order details representation dashboard.zip``` file.
+Download the dashboard file.
 Import the file after setting up Superset.
