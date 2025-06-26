@@ -9,15 +9,12 @@ In today's data-rich environment, businesses face an enormous challenge: how to 
 #### Suboptimal decision-making:
 Without a comprehensive understanding of trends and anomalies, strategic choices are often based on incomplete or outdated information.
 
-#### Missed opportunities:
-Valuable insights hidden within the data—such as customer behavior shifts or emerging market trends—remain undiscovered.
-
 #### Inefficient problem-solving:
 Identifying the root cause of issues, like discrepancies in vendor transactions or product performance, becomes a time-consuming and arduous task.
 
 ## My Approach
 
-This project addresses these challenges by leveraging data science and modern data architecture to transform raw transaction data into actionable insights. Our approach focuses on providing a visual outline of millions of data points in a structured format to empower better decision-making.
+This project addresses these challenges by leveraging data science and modern data architecture to transform raw transaction data into actionable insights. The approach focuses on providing a visual outline of millions of data points in a structured format to empower better decision-making.
 
 ### Key aspects of our solution include:
 
